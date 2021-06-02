@@ -1,3 +1,4 @@
 # UpBeat Python
 
-The UpBeat Python Project was made by DanielDor. The UpBeat Python Project helps users easily access the UpBeat API with a custom build UpBeat module that is modern and easy to use. The benefits of using the UpBeat module is that it comes with inbuilt API value checking so presenter likes do not show -1 when AutoDJ is live. We are in no way affiliated with UpBeatRadio and UpBeatRadio does not endorse us. We only use the publicly open API. All the code for this module is available on GitHub along with our documentation. If you require any support, please feel free to ask the community in our support channels in our Discord Server.
+UpBeatPython is a modern and easy to use asynchronous Python module which allows you to easily use UpBeat Radio's public API. We are in no way affiliated with UpBeat Radio.
+
